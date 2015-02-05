@@ -5,3 +5,5 @@ First repository i create. I really dont know exactly what to write here at the 
 
 Well, now i know that you can write a "commit changes message" where you should be making comments about the changes you´ve done in the file.
 I also have learned about the projects branches and, in fact, im writing this in a separate branch called "readme-edits".
+
+Now im seeing what happens when i commit changes in the master branch while other ones are still open.
